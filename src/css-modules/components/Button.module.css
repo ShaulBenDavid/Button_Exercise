@@ -1,0 +1,11 @@
+.myButton {
+    background-color: rgb(181, 97, 181);
+    margin: 50px;
+    padding: 1% 2%;
+    color: rgb(255, 255, 255);
+    font-size: 1.5em;
+}
+
+.pp {
+    color: red;
+}
